@@ -25,7 +25,7 @@ Parámetros utilizados:
 Muestra del Resultado
 
 ![Escaneo Nmap](images/Nmap%20NSE.PNG)
-network-enumeration/images/Nmap NSE.PNG
+
 
 Resultados Relevantes
 
