@@ -21,6 +21,9 @@ Comando ejecutado
 nmap -sV scanme.nmap.org
 
 
+## 📸 Captura del escaneo Nmap
+
+![Escaneo Nmap](images/Mapeo%20scanme.nmap.org.PNG)
 
 Resumen de resultados
 
