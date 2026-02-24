@@ -1,5 +1,3 @@
-<img width="652" height="408" alt="image" src="https://github.com/user-attachments/assets/fa1bc42d-b1a9-48e5-907c-4abca3749af3" />Enumeración Inicial de Servicios con Nmap
-
 Objetivo
 Identificar puertos TCP abiertos y versiones de servicios en un objetivo autorizado para práctica de ciberseguridad.
 
